@@ -1,0 +1,16 @@
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\bin\Debug\net5.0\EstruturaPrograma.exe
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\bin\Debug\net5.0\EstruturaPrograma.deps.json
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\bin\Debug\net5.0\EstruturaPrograma.runtimeconfig.json
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\bin\Debug\net5.0\EstruturaPrograma.runtimeconfig.dev.json
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\bin\Debug\net5.0\EstruturaPrograma.dll
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\bin\Debug\net5.0\ref\EstruturaPrograma.dll
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\bin\Debug\net5.0\EstruturaPrograma.pdb
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\obj\Debug\net5.0\EstruturaPrograma.csproj.AssemblyReference.cache
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\obj\Debug\net5.0\EstruturaPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\obj\Debug\net5.0\EstruturaPrograma.AssemblyInfoInputs.cache
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\obj\Debug\net5.0\EstruturaPrograma.AssemblyInfo.cs
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\obj\Debug\net5.0\EstruturaPrograma.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\obj\Debug\net5.0\EstruturaPrograma.dll
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\obj\Debug\net5.0\ref\EstruturaPrograma.dll
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\obj\Debug\net5.0\EstruturaPrograma.pdb
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\EstruturaPrograma\obj\Debug\net5.0\EstruturaPrograma.genruntimeconfig.cache
