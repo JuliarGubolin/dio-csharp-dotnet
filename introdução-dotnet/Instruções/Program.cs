@@ -5,16 +5,16 @@ namespace introdução_dotnet
     class Program
     {
         static void Declaracoes(){
-            int a, b2, c=3;
+            int a, b=2, c=3;
             const int d=4;
             a=1;
-            Console.WriteLine(a+b2+c+d);
+            Console.WriteLine(a+b+c+d);
         }
         static void InstrucaoIf(string[] args){
             //Crtl + ;: comenta a seleção
-            if(args.Lenght == 0){
+            if(args.Length == 0){
                 Console.WriteLine("Nenhum argumento");
-            }else if(args.Lenght == 1){
+            }else if(args.Length == 1){
                 Console.WriteLine("Um argumento");
             }else{
                 Console.WriteLine($"{args.Length} argumentos");
@@ -107,9 +107,15 @@ namespace introdução_dotnet
             }
         }
          static void InstrucaoUsing(string[] args){
+
             using (System.IO.TextWriter w = System.IO.File.CreateText("text.txt")){
                 w.WriteLine("Texto1");
             }
+        }
+        //Apenas para teste :)
+        static void Main(string[] args)
+        {
+            Declaracoes();
         }
     }
 }
