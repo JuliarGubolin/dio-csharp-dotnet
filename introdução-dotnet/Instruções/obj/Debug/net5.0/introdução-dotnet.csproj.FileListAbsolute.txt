@@ -1,0 +1,5 @@
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\Instruções\obj\Debug\net5.0\introdução-dotnet.csproj.AssemblyReference.cache
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\Instruções\obj\Debug\net5.0\introdução-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\Instruções\obj\Debug\net5.0\introdução-dotnet.AssemblyInfoInputs.cache
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\Instruções\obj\Debug\net5.0\introdução-dotnet.AssemblyInfo.cs
+D:\User\Desktop\Julia\workspace\dio-csharp-dotnet\introdução-dotnet\Instruções\obj\Debug\net5.0\introdução-dotnet.csproj.CoreCompileInputs.cache
