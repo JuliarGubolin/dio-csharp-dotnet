@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\console\bin\Debug\net5.0\console.exe
+D:\workspace\dio-csharp-dotnet\console\bin\Debug\net5.0\console.deps.json
+D:\workspace\dio-csharp-dotnet\console\bin\Debug\net5.0\console.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\console\bin\Debug\net5.0\console.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\console\bin\Debug\net5.0\console.dll
+D:\workspace\dio-csharp-dotnet\console\bin\Debug\net5.0\ref\console.dll
+D:\workspace\dio-csharp-dotnet\console\bin\Debug\net5.0\console.pdb
+D:\workspace\dio-csharp-dotnet\console\obj\Debug\net5.0\console.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\console\obj\Debug\net5.0\console.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\console\obj\Debug\net5.0\console.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\console\obj\Debug\net5.0\console.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\console\obj\Debug\net5.0\console.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\console\obj\Debug\net5.0\console.dll
+D:\workspace\dio-csharp-dotnet\console\obj\Debug\net5.0\ref\console.dll
+D:\workspace\dio-csharp-dotnet\console\obj\Debug\net5.0\console.pdb
+D:\workspace\dio-csharp-dotnet\console\obj\Debug\net5.0\console.genruntimeconfig.cache
