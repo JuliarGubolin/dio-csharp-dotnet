@@ -2,6 +2,7 @@
 
 namespace introdução_dotnet
 {
+    //Aperte 'F5' para debugar
     class Program
     {
         static void Declaracoes(){
