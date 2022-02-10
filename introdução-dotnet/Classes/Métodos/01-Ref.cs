@@ -12,7 +12,7 @@ namespace Classes.Métodos
         }
         public static void Inverter(){
             int i=1, j=2;
-            Inverter(ref i, ref j);
+            Inverter(i, j);
             System.Console.WriteLine($"{i} {j}");
         }
     }
