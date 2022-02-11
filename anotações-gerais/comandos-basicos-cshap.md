@@ -38,3 +38,8 @@ Ações de um programa são expressas usando instruções.
 
 São estruturas de dados de tamanho pré-definido que possuem um conjunto de
 dados do mesmo tipo. Sua leitura de inicia em 0 e vai até tamanho-1.
+
+### Dica
+
+F5 para debugar um projeto e F11 para navegar entre as linhas e verificar erros.
+Na pasta .vscode/lauch.json, trocar o terminal para 'inegratedTerminal'
