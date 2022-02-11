@@ -4,6 +4,21 @@ using static System.Console;
 namespace demos{
     public class Program
     {
+        static void Demo3(){
+            //Como struct não é por referencia, não preciso usar o new
+           StructPessoa p1 = new StructPessoa(){
+               Documento = "1234",
+               Idade = 30,
+               Nome = "Ricardo"
+           };
+
+           var p2 = p1;
+
+           TrocarNome(p1, "João");
+            //Neste caso não muda pq struct não é por referencia
+            //Então a função deveria retornar p1
+           WriteLine($"Nome p1: {p1.Nome} Nome p2: {p2.Nome}");
+        }
         static void Demo2(){
              Pessoa p1= new Pessoa();
             p1.Nome = "Julia";
@@ -54,23 +69,17 @@ namespace demos{
             p1.Nome = nome;
         }
         static void TrocarNome(StructPessoa p1, string nome){
+
             p1.Nome = nome;
         }
+        static void TrocarNome(string nome, string nomeNovo){
+            nome = nomeNovo;
+        }
         public static void Main(){
-
-            //Como struct não é por referencia, não preciso usar o new
-           StructPessoa p1 = new StructPessoa(){
-               Documento = "1234",
-               Idade = 30,
-               Nome = "Ricardo"
-           };
-
-           var p2 = p1;
-
-           TrocarNome(p1, "João");
-            //Neste caso não muda pq struct não é por referencia
-            //Então a função deveria retornar p1
-           WriteLine($"Nome p1: {p1.Nome} Nome p2: {p2.Nome}");
+            //String é um Reference Type, mas ela atua como Value Type neste caso
+            string nome = "Julia";
+            TrocarNome(nome, "Roberto");
+            WriteLine($"O novo nome é: {nome}");
         }
     }
 }
