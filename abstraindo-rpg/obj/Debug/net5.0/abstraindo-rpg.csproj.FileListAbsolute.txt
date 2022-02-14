@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\bin\Debug\net5.0\abstraindo-rpg.exe
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\bin\Debug\net5.0\abstraindo-rpg.deps.json
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\bin\Debug\net5.0\abstraindo-rpg.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\bin\Debug\net5.0\abstraindo-rpg.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\bin\Debug\net5.0\abstraindo-rpg.dll
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\bin\Debug\net5.0\ref\abstraindo-rpg.dll
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\bin\Debug\net5.0\abstraindo-rpg.pdb
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\obj\Debug\net5.0\abstraindo-rpg.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\obj\Debug\net5.0\abstraindo-rpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\obj\Debug\net5.0\abstraindo-rpg.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\obj\Debug\net5.0\abstraindo-rpg.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\obj\Debug\net5.0\abstraindo-rpg.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\obj\Debug\net5.0\abstraindo-rpg.dll
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\obj\Debug\net5.0\ref\abstraindo-rpg.dll
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\obj\Debug\net5.0\abstraindo-rpg.pdb
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg\obj\Debug\net5.0\abstraindo-rpg.genruntimeconfig.cache

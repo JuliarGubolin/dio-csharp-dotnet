@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\bin\Debug\net5.0\abstraindo-rpg-entrega.exe
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\bin\Debug\net5.0\abstraindo-rpg-entrega.deps.json
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\bin\Debug\net5.0\abstraindo-rpg-entrega.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\bin\Debug\net5.0\abstraindo-rpg-entrega.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\bin\Debug\net5.0\abstraindo-rpg-entrega.dll
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\bin\Debug\net5.0\ref\abstraindo-rpg-entrega.dll
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\bin\Debug\net5.0\abstraindo-rpg-entrega.pdb
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\obj\Debug\net5.0\abstraindo-rpg-entrega.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\obj\Debug\net5.0\abstraindo-rpg-entrega.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\obj\Debug\net5.0\abstraindo-rpg-entrega.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\obj\Debug\net5.0\abstraindo-rpg-entrega.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\obj\Debug\net5.0\abstraindo-rpg-entrega.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\obj\Debug\net5.0\abstraindo-rpg-entrega.dll
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\obj\Debug\net5.0\ref\abstraindo-rpg-entrega.dll
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\obj\Debug\net5.0\abstraindo-rpg-entrega.pdb
+D:\workspace\dio-csharp-dotnet\abstraindo-rpg-entrega\obj\Debug\net5.0\abstraindo-rpg-entrega.genruntimeconfig.cache
