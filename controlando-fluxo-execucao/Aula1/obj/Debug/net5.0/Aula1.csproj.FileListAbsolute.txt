@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.exe
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.deps.json
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.dll
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\ref\Aula1.dll
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\bin\Debug\net5.0\Aula1.pdb
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.dll
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\ref\Aula1.dll
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.pdb
+D:\workspace\dio-csharp-dotnet\controlando-fluxo-execucao\Aula1\obj\Debug\net5.0\Aula1.genruntimeconfig.cache
