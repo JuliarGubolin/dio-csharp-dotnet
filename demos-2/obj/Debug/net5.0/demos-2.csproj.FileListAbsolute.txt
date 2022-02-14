@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\demos-2\bin\Debug\net5.0\demos-2.exe
+D:\workspace\dio-csharp-dotnet\demos-2\bin\Debug\net5.0\demos-2.deps.json
+D:\workspace\dio-csharp-dotnet\demos-2\bin\Debug\net5.0\demos-2.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\demos-2\bin\Debug\net5.0\demos-2.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\demos-2\bin\Debug\net5.0\demos-2.dll
+D:\workspace\dio-csharp-dotnet\demos-2\bin\Debug\net5.0\ref\demos-2.dll
+D:\workspace\dio-csharp-dotnet\demos-2\bin\Debug\net5.0\demos-2.pdb
+D:\workspace\dio-csharp-dotnet\demos-2\obj\Debug\net5.0\demos-2.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\demos-2\obj\Debug\net5.0\demos-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\demos-2\obj\Debug\net5.0\demos-2.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\demos-2\obj\Debug\net5.0\demos-2.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\demos-2\obj\Debug\net5.0\demos-2.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\demos-2\obj\Debug\net5.0\demos-2.dll
+D:\workspace\dio-csharp-dotnet\demos-2\obj\Debug\net5.0\ref\demos-2.dll
+D:\workspace\dio-csharp-dotnet\demos-2\obj\Debug\net5.0\demos-2.pdb
+D:\workspace\dio-csharp-dotnet\demos-2\obj\Debug\net5.0\demos-2.genruntimeconfig.cache
