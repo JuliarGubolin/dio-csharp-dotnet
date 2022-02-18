@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\bin\Debug\net5.0\demo1-arquivo.exe
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\bin\Debug\net5.0\demo1-arquivo.deps.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\bin\Debug\net5.0\demo1-arquivo.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\bin\Debug\net5.0\demo1-arquivo.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\bin\Debug\net5.0\demo1-arquivo.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\bin\Debug\net5.0\ref\demo1-arquivo.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\bin\Debug\net5.0\demo1-arquivo.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\obj\Debug\net5.0\demo1-arquivo.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\obj\Debug\net5.0\demo1-arquivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\obj\Debug\net5.0\demo1-arquivo.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\obj\Debug\net5.0\demo1-arquivo.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\obj\Debug\net5.0\demo1-arquivo.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\obj\Debug\net5.0\demo1-arquivo.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\obj\Debug\net5.0\ref\demo1-arquivo.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\obj\Debug\net5.0\demo1-arquivo.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo1-arquivo\obj\Debug\net5.0\demo1-arquivo.genruntimeconfig.cache

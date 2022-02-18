@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\bin\Debug\net5.0\demo3-directoryInfo.exe
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\bin\Debug\net5.0\demo3-directoryInfo.deps.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\bin\Debug\net5.0\demo3-directoryInfo.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\bin\Debug\net5.0\demo3-directoryInfo.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\bin\Debug\net5.0\demo3-directoryInfo.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\bin\Debug\net5.0\ref\demo3-directoryInfo.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\bin\Debug\net5.0\demo3-directoryInfo.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\obj\Debug\net5.0\demo3-directoryInfo.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\obj\Debug\net5.0\demo3-directoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\obj\Debug\net5.0\demo3-directoryInfo.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\obj\Debug\net5.0\demo3-directoryInfo.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\obj\Debug\net5.0\demo3-directoryInfo.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\obj\Debug\net5.0\demo3-directoryInfo.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\obj\Debug\net5.0\ref\demo3-directoryInfo.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\obj\Debug\net5.0\demo3-directoryInfo.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 1- SystemIO\demo3-directoryInfo\obj\Debug\net5.0\demo3-directoryInfo.genruntimeconfig.cache
