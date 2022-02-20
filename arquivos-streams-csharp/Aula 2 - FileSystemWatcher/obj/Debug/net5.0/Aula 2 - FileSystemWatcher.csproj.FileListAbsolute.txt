@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\bin\Debug\net5.0\Aula 2 - FileSystemWatcher.exe
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\bin\Debug\net5.0\Aula 2 - FileSystemWatcher.deps.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\bin\Debug\net5.0\Aula 2 - FileSystemWatcher.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\bin\Debug\net5.0\Aula 2 - FileSystemWatcher.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\bin\Debug\net5.0\Aula 2 - FileSystemWatcher.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\bin\Debug\net5.0\ref\Aula 2 - FileSystemWatcher.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\bin\Debug\net5.0\Aula 2 - FileSystemWatcher.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\obj\Debug\net5.0\Aula 2 - FileSystemWatcher.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\obj\Debug\net5.0\Aula 2 - FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\obj\Debug\net5.0\Aula 2 - FileSystemWatcher.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\obj\Debug\net5.0\Aula 2 - FileSystemWatcher.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\obj\Debug\net5.0\Aula 2 - FileSystemWatcher.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\obj\Debug\net5.0\Aula 2 - FileSystemWatcher.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\obj\Debug\net5.0\ref\Aula 2 - FileSystemWatcher.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\obj\Debug\net5.0\Aula 2 - FileSystemWatcher.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 2 - FileSystemWatcher\obj\Debug\net5.0\Aula 2 - FileSystemWatcher.genruntimeconfig.cache
