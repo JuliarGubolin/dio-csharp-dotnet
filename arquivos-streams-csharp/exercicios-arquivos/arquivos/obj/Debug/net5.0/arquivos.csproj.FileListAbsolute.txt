@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\bin\Debug\net5.0\arquivos.exe
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\bin\Debug\net5.0\arquivos.deps.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\bin\Debug\net5.0\arquivos.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\bin\Debug\net5.0\arquivos.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\bin\Debug\net5.0\arquivos.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\bin\Debug\net5.0\ref\arquivos.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\bin\Debug\net5.0\arquivos.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\obj\Debug\net5.0\arquivos.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\obj\Debug\net5.0\arquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\obj\Debug\net5.0\arquivos.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\obj\Debug\net5.0\arquivos.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\obj\Debug\net5.0\arquivos.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\obj\Debug\net5.0\arquivos.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\obj\Debug\net5.0\ref\arquivos.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\obj\Debug\net5.0\arquivos.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\arquivos\obj\Debug\net5.0\arquivos.genruntimeconfig.cache

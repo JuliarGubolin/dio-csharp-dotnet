@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\bin\Debug\net5.0\exercicio.exe
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\bin\Debug\net5.0\exercicio.deps.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\bin\Debug\net5.0\exercicio.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\bin\Debug\net5.0\exercicio.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\bin\Debug\net5.0\exercicio.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\bin\Debug\net5.0\ref\exercicio.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\bin\Debug\net5.0\exercicio.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\obj\Debug\net5.0\exercicio.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\obj\Debug\net5.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\obj\Debug\net5.0\exercicio.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\obj\Debug\net5.0\exercicio.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\obj\Debug\net5.0\exercicio.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\obj\Debug\net5.0\exercicio.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\obj\Debug\net5.0\ref\exercicio.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\obj\Debug\net5.0\exercicio.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\exercicios-arquivos\exercicio\obj\Debug\net5.0\exercicio.genruntimeconfig.cache

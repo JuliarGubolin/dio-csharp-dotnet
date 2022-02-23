@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjJQKoi1mpk/uwEYxSrubdTL+u3T0EWvy3dipychLFjLE09qN5Mtu7OUfAgPYN94v42lNm4Tep3+c44EFInL+Q==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\dio-csharp-dotnet\\arquivos-streams-csharp\\Aula 4 - ImportarDados\\Projetocsvhelper\\Projetocsvhelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gisla\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

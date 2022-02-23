@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\bin\Debug\net5.0\Aula 3 - Streams.exe
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\bin\Debug\net5.0\Aula 3 - Streams.deps.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\bin\Debug\net5.0\Aula 3 - Streams.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\bin\Debug\net5.0\Aula 3 - Streams.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\bin\Debug\net5.0\Aula 3 - Streams.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\bin\Debug\net5.0\ref\Aula 3 - Streams.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\bin\Debug\net5.0\Aula 3 - Streams.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\obj\Debug\net5.0\Aula 3 - Streams.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\obj\Debug\net5.0\Aula 3 - Streams.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\obj\Debug\net5.0\Aula 3 - Streams.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\obj\Debug\net5.0\Aula 3 - Streams.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\obj\Debug\net5.0\Aula 3 - Streams.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\obj\Debug\net5.0\Aula 3 - Streams.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\obj\Debug\net5.0\ref\Aula 3 - Streams.dll
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\obj\Debug\net5.0\Aula 3 - Streams.pdb
+D:\workspace\dio-csharp-dotnet\arquivos-streams-csharp\Aula 3 - Streams\obj\Debug\net5.0\Aula 3 - Streams.genruntimeconfig.cache

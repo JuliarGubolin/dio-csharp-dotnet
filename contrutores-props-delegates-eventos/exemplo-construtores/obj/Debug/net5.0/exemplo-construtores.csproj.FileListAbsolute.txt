@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\bin\Debug\net5.0\exemplo-construtores.exe
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\bin\Debug\net5.0\exemplo-construtores.deps.json
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\bin\Debug\net5.0\exemplo-construtores.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\bin\Debug\net5.0\exemplo-construtores.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\bin\Debug\net5.0\exemplo-construtores.dll
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\bin\Debug\net5.0\ref\exemplo-construtores.dll
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\bin\Debug\net5.0\exemplo-construtores.pdb
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\obj\Debug\net5.0\exemplo-construtores.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\obj\Debug\net5.0\exemplo-construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\obj\Debug\net5.0\exemplo-construtores.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\obj\Debug\net5.0\exemplo-construtores.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\obj\Debug\net5.0\exemplo-construtores.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\obj\Debug\net5.0\exemplo-construtores.dll
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\obj\Debug\net5.0\ref\exemplo-construtores.dll
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\obj\Debug\net5.0\exemplo-construtores.pdb
+D:\workspace\dio-csharp-dotnet\contrutores-props-delegates-eventos\exemplo-construtores\obj\Debug\net5.0\exemplo-construtores.genruntimeconfig.cache
