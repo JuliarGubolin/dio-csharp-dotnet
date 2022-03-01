@@ -5,6 +5,8 @@ namespace exemplo_construtores
 {
     class Program
     {
+        //Declarando Delegate
+        public delegate void Operacao(int x, int y);
         static void Main(string[] args)
         {
             //Aula 1
@@ -36,11 +38,25 @@ namespace exemplo_construtores
             //data.ApresentarMes();
 
             //Aula constantes e readonly
-            const double pi = 3.14;
-            System.Console.WriteLine(pi);
+            //const double pi = 3.14;
+            //System.Console.WriteLine(pi);
             //Erro: pi é uma constante
             //pi=0;
 
+            //Aula Delegates
+            //Operacao op = Calculadora.somar;
+            //Operacao op = new Operacao(Calculadora.somar);
+            //2 maneiras de chamar o somar pelo Delegate
+            //op.Invoke(10,10);
+            //op(10,10);
+
+            //Multicast Delegate (Para chamada dos métodos, ele segue a regra FIFO)
+            //op += Calculadora.subtrair;
+            //op.Invoke(10,10);
+
+            //Aula Eventos
+            Matematica m = new Matematica(10,20);
+            m.Somar();
         }
     }
 }
