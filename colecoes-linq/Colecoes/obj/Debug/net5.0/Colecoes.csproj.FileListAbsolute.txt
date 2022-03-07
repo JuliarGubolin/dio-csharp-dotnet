@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\bin\Debug\net5.0\Colecoes.exe
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\bin\Debug\net5.0\Colecoes.deps.json
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\bin\Debug\net5.0\Colecoes.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\bin\Debug\net5.0\Colecoes.dll
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\bin\Debug\net5.0\ref\Colecoes.dll
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\bin\Debug\net5.0\Colecoes.pdb
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\obj\Debug\net5.0\Colecoes.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\obj\Debug\net5.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\obj\Debug\net5.0\Colecoes.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\obj\Debug\net5.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\obj\Debug\net5.0\Colecoes.dll
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\obj\Debug\net5.0\ref\Colecoes.dll
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\obj\Debug\net5.0\Colecoes.pdb
+D:\workspace\dio-csharp-dotnet\colecoes-linq\Colecoes\obj\Debug\net5.0\Colecoes.genruntimeconfig.cache

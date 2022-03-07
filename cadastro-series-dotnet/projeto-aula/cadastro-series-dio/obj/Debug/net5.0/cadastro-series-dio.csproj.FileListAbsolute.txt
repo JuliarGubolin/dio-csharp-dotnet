@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\bin\Debug\net5.0\cadastro-series-dio.exe
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\bin\Debug\net5.0\cadastro-series-dio.deps.json
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\bin\Debug\net5.0\cadastro-series-dio.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\bin\Debug\net5.0\cadastro-series-dio.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\bin\Debug\net5.0\cadastro-series-dio.dll
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\bin\Debug\net5.0\ref\cadastro-series-dio.dll
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\bin\Debug\net5.0\cadastro-series-dio.pdb
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\obj\Debug\net5.0\cadastro-series-dio.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\obj\Debug\net5.0\cadastro-series-dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\obj\Debug\net5.0\cadastro-series-dio.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\obj\Debug\net5.0\cadastro-series-dio.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\obj\Debug\net5.0\cadastro-series-dio.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\obj\Debug\net5.0\cadastro-series-dio.dll
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\obj\Debug\net5.0\ref\cadastro-series-dio.dll
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\obj\Debug\net5.0\cadastro-series-dio.pdb
+D:\workspace\dio-csharp-dotnet\cadastro-series-dotnet\projeto-aula\cadastro-series-dio\obj\Debug\net5.0\cadastro-series-dio.genruntimeconfig.cache

@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using exemplo_poo.Helper;
+using exemplo_poo.Interfaces;
 using exemplo_poo.Models;
 
 namespace exemplo_poo
@@ -51,9 +55,62 @@ namespace exemplo_poo
             System.Console.WriteLine($"Resultado primeira soma: {c1.Somar(1, 2)}.");
             System.Console.WriteLine($"Resultado primeira soma: {c1.Somar(1, 2, 3)}.");*/
 
-            Corrente c = new Corrente();
+            /*Corrente c = new Corrente();
             c.Creditar(100);
-            c.ExibirSaldo();
+            c.ExibirSaldo();*/
+
+            /*// Aula Herança System.Object
+            Computador pc = new Computador();
+            System.Console.WriteLine(pc.ToString());*/
+
+            /*Interface*/
+            //Não podemos fazer: ICalculadora calc = new ICalculadora();
+            //Podemos também: Calculadora calc = new Calculadora();
+            //ICalculadora calc = new Calculadora();
+            //System.Console.WriteLine(calc.Somar(3, 4));
+
+            //-----------------------------------
+            //Arquivos
+            //Caminhos para manipular arquivos/diretórios
+            var path = @"C:\Users\gisla\Desktop\trabalhando-arquivos";
+            var pathCombine = Path.Combine(path, "pasta-teste-3", "subpasta-teste-3");
+            var pathCombineAux = Path.Combine(path, "pasta-teste-1");
+            var novoPathArquivo = Path.Combine(path, "pasta-teste-2", "arquivo-teste-stream.txt");
+            var pathArquivo = Path.Combine(path, "arquivo-teste-stream.txt");
+            var pathArquivoTeste = Path.Combine(path, "arquivo-teste.txt");
+            var pathArquivoTesteCopia = Path.Combine(path, "arquivo-teste-backup.txt");
+            var listaString = new List<string>{"linha1", "linha2", "linha3"};
+            var listaString2 = new List<string>{"linha4", "linha5", "linha6"};
+
+            FileHelper helper = new FileHelper();
+
+            //Como listar diretórios
+            //helper.ListarDiretorios(path);
+
+            //Como listar arquivos
+            //helper.ListarArquivosDiretorios(path);
+
+            //Como criar diretórios
+            //System.Console.WriteLine($"Criando diretório: {pathCombine}");
+            //helper.CriarDiretorio(pathCombine);
+
+            //Como deletar diretórios (não vão para a lixeira!!)
+            //helper.ApagarDiretorio(pathCombineAux, true);
+
+            //Criar arquivo texto
+            //helper.CriarArquivoTexto("Teste de escrita de arquivo", pathArquivo);
+
+            //helper.CriarArquivoTextoStream(pathArquivo, listaString);
+            //helper.AdicionarTextoStream(pathArquivo, listaString2);
+            //helper.AdicionarTexto(pathArquivo, "Linha 7");
+
+            //helper.LerArquivoStream(pathArquivo);
+
+            //helper.MoverArquivo(pathArquivo, novoPathArquivo, false);
+
+            //helper.CopiarArquivo(pathArquivoTeste, pathArquivoTesteCopia, false);
+
+            helper.DeletarArquivo(pathArquivoTesteCopia);
         }
     }
 }

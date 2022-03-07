@@ -1,0 +1,16 @@
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\bin\Debug\net5.0\1.exe
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\bin\Debug\net5.0\1.deps.json
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\bin\Debug\net5.0\1.runtimeconfig.json
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\bin\Debug\net5.0\1.runtimeconfig.dev.json
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\bin\Debug\net5.0\1.dll
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\bin\Debug\net5.0\ref\1.dll
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\bin\Debug\net5.0\1.pdb
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\obj\Debug\net5.0\1.csproj.AssemblyReference.cache
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\obj\Debug\net5.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\obj\Debug\net5.0\1.AssemblyInfoInputs.cache
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\obj\Debug\net5.0\1.AssemblyInfo.cs
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\obj\Debug\net5.0\1.csproj.CoreCompileInputs.cache
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\obj\Debug\net5.0\1.dll
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\obj\Debug\net5.0\ref\1.dll
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\obj\Debug\net5.0\1.pdb
+D:\workspace\dio-csharp-dotnet\desafios-basicos\1\obj\Debug\net5.0\1.genruntimeconfig.cache
