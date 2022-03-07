@@ -27,7 +27,9 @@ namespace cadastro_series_dio
             retorno += "Descrição: "+ this.Descricao+ Environment.NewLine;
             retorno += "Ano: "+ this.Ano+ Environment.NewLine;
             retorno += "Diretor: "+ this.Diretor+ Environment.NewLine;
-            retorno += "Excluído: "+ this.Excluido+ Environment.NewLine;
+            if(this.Excluido){
+                retorno += "Excluído: "+ this.Excluido+ Environment.NewLine;
+            }
             return retorno;
         }
         public string RetornaTitulo(){
